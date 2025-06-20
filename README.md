@@ -57,7 +57,8 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/nayani1997/fit-goal
+git clone https://nayanimern.github.io/Fit-Goal/
+
 
 # Navigate into the project folder
 cd fit-goal
@@ -90,7 +91,7 @@ For collaboration or feedback:
 
 💼 LinkedIn: linkedin.com/in/sivatri-nayani
 
-🐙 GitHub: https://nayanimern.github.io/Fit-Goal/
+🐙 GitHub: https://github.com/NayaniMern
 
 ✉️ Email: sivatrinayani.v@gmail.com
 
