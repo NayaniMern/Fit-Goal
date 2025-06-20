@@ -12,7 +12,7 @@ A responsive, multi-page fitness website built as a front-end development portfo
 - Animate.css  
 - AOS (Animate On Scroll)  
 - Bootstrap Icons  
-- Vanilla JavaScript (form validation)
+- JavaScript (form validation)
 
 ---
 
